@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<tititle></tititle>
+	<style type="text/css">
+		*{padding: 0;margin: 0;}
+		body{
+			background: #F5F7FA;
+		}
+		table {border-collapse:collapse;}
+		tr{
+			background: #ffa;
+		}
+		ul{
+			list-style-type: none;
+		}
+		.cl{
+			clear: both;
+		}
+		.rt{
+			float: right;
+		}
+		.fl{
+			float: left;
+		}
+		.img{
+			max-width: 56px;
+			max-height: 56px;
+			margin: -6px 10px 4px 16px;
+		}
+		#main {
+			margin: 0 auto;
+			padding: 16px;
+			width: 785px;
+			background: white;
+			margin-top: 30px;
+			box-shadow:  0px 0px 6px #999;
+		}
+		#table .b-right{
+			width: 70%;
+			background: #ffddd3;
+		}
+		#table .b-left{
+			width: 30%;
+			background: #f44;
+			text-align: center;
+			font-size: 36px;
+			font-weight: 500;
+			color: #fff;
+		}
+		#table .left{
+			text-align: center;
+			width: 30%;
+			background: #fe4;
+			font-size: 36px;
+			font-weight: bold;
+		}
+		#table .right{
+			width: 70%;
+		}
+		#table{
+			width: 100%;
+			margin-top: 10px;
+		}
+		.title{
+			font-size: 18px;
+			color: #444;
+			margin: 16px 16px 0;
+		}
+		.ldc{
+			color: #777;
+			font-size: 12px;
+			font-style: italic;
+			margin: 4px 16px 8px;
+		}
+		.date{
+			font-size: 18px;
+			font-weight: bold;
+			letter-spacing: -.1em;
+		}
+		.date1{
+			font-size: 12px;
+			color: #666;
+			font-style: italic;
+			letter-spacing: -1px;
+		}
+		.luck{
+			font-size: 28px;
+			color: #753333;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+<div id="main">
+	<div>
+		<div class="fl">
+			<p></p>
+			<p class="date">2017年3月15日 星期三</p>
+			<p class="date1">丁酉鸡年二月十八</p>
+		</div>
+	<div>
+	<div class="luck rt">
+		<p>末吉</p>
+	</div>
+	<div class="cl"></div>
+	<table  id="table">
+	<tr>
+		<td class="left">宜</td>
+		<td class="right">
+			<ul>
+				<li>
+					<img src="https://img.alicdn.com/imgextra/i1/1992080341/TB2csGthSBjpuFjy1XdXXaooVXa_!!1992080341.png" class="fl img">
+					<p class="title">烹饪</p>
+					<p class="ldc">黑暗料理界就由我来打败</p>
+				</li>
+				<div class="cl"></div>
+				<li >
+					<img src="https://img.alicdn.com/imgextra/i4/1992080341/TB28E9OhR0lpuFjSszdXXcdxFXa_!!1992080341.png" class="fl img">
+					<p class="title">遛狗</p>
+					<p class="ldc">遇见女神遛狗搭讪</p>
+				</li>
+				<div class="cl"></div>
+				<li>
+					<img src="https://img.alicdn.com/imgextra/i3/1992080341/TB29wW2jhlmpuFjSZPfXXc9iXXa_!!1992080341.png" class="fl img">
+					<p class="title">告白</p>
+					<p class="ldc">其实我也喜欢你好久了</p>
+				</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td class="b-left">忌</td>
+		<td class="b-right">
+			<ul>
+				<li>
+					<img src="https://img.alicdn.com/imgextra/i2/1992080341/TB2O4YfdOC9MuFjSZFoXXbUzFXa_!!1992080341.png" class="fl img">
+					<p class="title">追新番</p>
+					<p class="ldc">会被剧透</p>
+				</li>
+				<div class="cl"></div>
+				<li>
+					<img src="https://img.alicdn.com/imgextra/i2/1992080341/TB2vqbEhMxlpuFjy0FoXXa.lXXa_!!1992080341.png" class="fl img">
+					<p class="title">看直播</p>
+					<p class="ldc">错过与女神聊天的机会</p>
+				</li>
+				<div class="cl"></div>
+				<li>
+					<img src="https://img.alicdn.com/imgextra/i4/1992080341/TB2CbGIjilnpuFjSZFgXXbi7FXa_!!1992080341.png" class="fl img">
+					<p class="title">开罐头</p>
+					<p class="ldc">会有血光之灾</p>
+				</li>
+			</ul>
+		</td>
+	</tr>
+	</table>
+</div>
+
+
+</body>
+</html>
