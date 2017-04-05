@@ -1,44 +1,45 @@
-<!-- 简介必须3行不然会发生奇怪的事情 主要还是我懒 代码写的很烂 不喜勿喷 如需帮助QQ：372288130-->
-<!-- 背景图片链接 -->
+<!--  注意:要把我这行删了 难道是我打开的方法不对吗~~ 简介必须3行不然会发生奇怪的事情 主要还是我懒 代码写的很烂 不喜勿喷 如需帮助QQ：372288130-->		
+<p></p>
 <div style="position:absolute;overflow:auto;display:block;border-radius:4px;margin:-58px 0 -20px -18px;background:url(https://img.alicdn.com/imgextra/i3/1992080341/TB2lzWai88lpuFjSspaXXXJKpXa_!!1992080341.jpg) no-repeat -100px 0px;width:1189px;height:300px;color:#fff">
-	<!-- 背景斜线 -->
+	
 	<div style="background-image:url(https://img.alicdn.com/imgextra/i1/1992080341/TB251tIi80kpuFjy1zdXXXuUVXa_!!1992080341.png);background-color:rgba(122,122,122,.2);height:300px">
-	<!-- 框框 -->
+	
 		<div style="float:left;border:2px solid rgba(255,255,255,.7);width:1165px;height:275px;margin:10px;overflow:hidden;position: relative;">
-		<!-- 内容需要直接改文字   -->
+		
 			<div style="width:300px;position: absolute;top:14%;left:50px;">
-				<span  style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5);padding:5px;font-size: 1.1rem;on" >主播简介</span>
-				<p style="font-size:14px;margin:0;margin-top:7px;text-shadow: 1px 1px 1px black;">SU建模是多么寂寞~</p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">UP是建模界的大佬,就是很皮~</p>
+				<span style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5); ←按钮颜色可以改 padding:5px;font-size: 1.1rem;on">主播简介</span>
+				<p style="font-size:14px;margin:0;margin-top:7px;text-shadow: 1px 1px 1px black;">我是来凑行数的(⊙﹏⊙)b</p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
 				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">喜欢主播的话请点下关注么么哒(*≧▽≦*)</p>
 			</div>
 			<div style="width:300px;position: absolute;bottom:10%;left:50px;">
-				<span  style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5);padding:5px;font-size: 1.1rem;">直播内容</span>				<p style="font-size:14px;margin:0;;margin-top:7px;;text-shadow: 1px 1px 1px black;text-shadow: 1px 1px 1px black">SU建模/STEAM游戏/户外</p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">聊天/情感交流/疑难解答</p>
+				<span style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5); ←按钮颜色可以改 padding:5px;font-size: 1.1rem;">直播内容</span>
+				<p style="font-size:14px;margin:0;;margin-top:7px;;text-shadow: 1px 1px 1px black;text-shadow: 1px 1px 1px black">xx/STEAM/户外</p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
 				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
 			</div>
 				
 			<div style="width:300px;position: absolute;top:14%;left:410px;">
-				<span  style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5);padding:5px;font-size: 1.1rem;">成为真爱</span>
-				<p style="font-size:14px;margin:0;;margin-top:7px;;text-shadow: 1px 1px 1px black">upSTEAM:霖雨溪</p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black"><a target="_blank" style="text-decoration: none;color:#fff;">主播企鹅:706573444</a></p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black"><a href="https://jq.qq.com/?_wv=1027&k=46VXxyH" target="_blank" style="text-decoration: none;color:#fff;">up粉丝群:275290548(点击进群)</a></p>
+				<span style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5); ←按钮颜色可以改 padding:5px;font-size: 1.1rem;">成为真爱</span>
+				<p style="font-size:14px;margin:0;;margin-top:7px;;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black"><a target="_blank" style="text-decoration: none;color:#fff;">主播企鹅:23333333</a></p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black"><a href="https://jq.qq.com/?_wv=1027&amp;k=46VXxyH" target="_blank" style="text-decoration: none;color:#fff;">up粉丝群:23333333(点击进群)</a></p>
 			</div>	
 			<div style="width:300px;position: absolute;bottom:10%;left:410px;">
-				<span  style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5);padding:5px;font-size: 1.1rem;">直播时间</span>
+				<span style="line-height:2px;border: 2px solid rgba(255,255,255,0.5);background:rgba(167,23,32,.5); ←按钮颜色可以改 padding:5px;font-size: 1.1rem;">直播时间</span>
 				<p style="font-size:14px;margin:0;;margin-top:7px;;text-shadow: 1px 1px 1px black">8点~12点</p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">主播很膨胀</p>
-				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">有生之年，户外直播</p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
+				<p style="margin:0;font-size:14px;text-shadow: 1px 1px 1px black">我是来凑行数的(⊙﹏⊙)b</p>
 			</div>
 			<div style="position:absolute;right:0;top:26%;border-radius: 5px;">
-			<!-- 投喂宝二维码链接 -->
-				<img src="https://img.alicdn.com/imgextra/i2/1992080341/TB2TQcTkyRnpuFjSZFCXXX2DXXa_!!1992080341.png" style="height:100px;width:100px;border: 2px solid #fff;">
-				<!-- 块块颜色内容都可以改 -->
-				<p style="margin:0;padding:2px;background:rgba(241,19,26,.6);margin-top:-4px;border-radius: 6px;text-align: center; ">投喂宝</p>
+			
+				<img src="https://img.alicdn.com/imgextra/i2/1992080341/TB2TQcTkyRnpuFjSZFCXXX2DXXa_!!1992080341.png" style="height:100px;width:100px;border: 2px solid #fff;"><p style="margin:0;padding:2px;background:rgba(241,19,26,.6);margin-top:-4px;border-radius: 6px;text-align: center; ">投喂宝</p>
 				<p style="text-align:center;margin:0;font-size:5px">投喂附上ID</p>
 			</div>
 		</div>
 	</div>
 </div>
-<!-- 撑开内容 -->
-<div style="width:1px;height:223px">&nbsp;</div>
+
+<div style="width:1px;height:223px"> </div>
+                </div>
+            </div>
